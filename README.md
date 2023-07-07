@@ -1,3 +1,3 @@
 # WebDev Global Internship
 
--  Marko Biocanin
+Marko Biocanin
